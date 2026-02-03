@@ -1,0 +1,1 @@
+/contentcache/Optional/ios/gameassetbundles/
